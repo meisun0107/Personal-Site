@@ -9,13 +9,13 @@ body {
 h1 {
   margin: 40px auto 0 auto;
   font-family: 'Sacramento', cursive;
-  font-size: 5.2rem; /*1em=16px=100%*/
+  font-size: 4rem; /*1em=16px=100%*/
   color: #F999B7;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.2rem;
+  font-size: 2rem;
   color: #F999B7;
   font-weight: normal;
 }
@@ -113,7 +113,7 @@ a:hover {
 
 .laptop {
   margin: 30px auto 70px;
-  width: 400px;
+  width: 200px;
 }
 
 .middle-container {
@@ -196,4 +196,9 @@ a:hover {
   color: #FFEEEE;
   font-size: 0.75em;
   padding: 20px 0;
+}
+
+.resume {
+  width: 80%;
+  padding-bottom: 60px;
 }
